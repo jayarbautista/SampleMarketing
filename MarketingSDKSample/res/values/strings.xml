@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MarketingSDKSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_name">Press</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6954782854491407/4012641575</string><!-- ca-app-pub-3940256099942544/6300978111 -->
+    <string name="appId">5422869789b0bb76601f3443</string>
+    <string name="appSignature">17f272fc663abbd52a36d54c95ce4110d5827ed3</string>
+
+</resources>
